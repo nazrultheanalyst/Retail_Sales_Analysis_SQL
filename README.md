@@ -56,7 +56,9 @@ RENAME COLUMN QUANTIY TO QUANTITY;
 SELECT COUNT(*) FROM retail_sales;
 SELECT COUNT(DISTINCT customer_id) FROM retail_sales;
 SELECT DISTINCT category FROM retail_sales;
-
+```
+### Null Value Check
+```sql
 SELECT * FROM retail_sales
 WHERE 
     sale_date IS NULL
@@ -68,7 +70,9 @@ WHERE
     OR quantity IS NULL
     OR price_per_unit IS NULL
     OR cogs IS NULL;
-
+```
+### Delet Null Value 
+```sql
 DELETE FROM retail_sales
 WHERE 
     sale_date IS NULL
