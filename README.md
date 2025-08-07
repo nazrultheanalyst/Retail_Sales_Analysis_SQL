@@ -221,4 +221,21 @@ GROUP BY shift
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 
-Thank you for your support, and I look forward to connecting with you!
+## 🧑‍💻 Created by
+
+**Nazrul Islam**  
+📍 Data & Business Analyst  
+📧 [nazrul.contact007@gmail.com](mailto:nazrul.contact007@gmail.com)
+
+---
+
+## 🌐 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nazrul-islam45)
+- [Portfolio](https://nazrultheanalyst.github.io)  
+
+
+---
+
+> ⭐ *If you found this project helpful or inspiring, feel free to star the repository and connect with me on LinkedIn!*
+
